@@ -1,10 +1,6 @@
-# CSCI 6612 Visual Analytics Project
-# Team Hustlers
 
 #Authors
-* Dinesh Katamneni 
-* Preetham Tikkavarapu
-* Misbah Pathan
+* Vipin Saini
 
 Codebase directory structure:
 Hustlers_visual_Analytics_Project_Implementation
@@ -30,11 +26,5 @@ In case you are using pycharm, you just need to right-click any python file and 
 * For mac/linux, `cd` into the *Hustlers_visual_Analytics_Project_Implementation* folder and run `export PYTHONPATH=../../ && python ScriptName.py`
 * Install the necessary dependencies mentioned in the requirements.txt file which are the libraries required to run the project
 * After successful running the localhost page at port 8000 starts running and click on the link in the console to view dashboard
-
-
-## Links
-
-- [localhost URL](http://127.0.0.1:8000/)
-- [Gitlab Repository URL](https://git.cs.dal.ca/katamneni/visual-analytics-project)
 
 
